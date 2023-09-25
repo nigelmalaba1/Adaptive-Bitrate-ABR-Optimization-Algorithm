@@ -1,0 +1,10 @@
+[
+  { "duration_ms": 15000, "bandwidth_kbps": 2100, "latency_ms": 30 },
+  { "duration_ms": 15000, "bandwidth_kbps": 1000, "latency_ms": 30 },
+  { "duration_ms": 15000, "bandwidth_kbps": 1500, "latency_ms": 30 },
+  { "duration_ms": 15000, "bandwidth_kbps": 1000, "latency_ms": 30 },
+  { "duration_ms": 15000, "bandwidth_kbps": 2100, "latency_ms": 30 },
+  { "duration_ms": 15000, "bandwidth_kbps": 1500, "latency_ms": 40 },
+  { "duration_ms": 15000, "bandwidth_kbps": 1200, "latency_ms": 40 },
+  { "duration_ms": 15000, "bandwidth_kbps": 1500, "latency_ms": 40 }
+]

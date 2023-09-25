@@ -1,0 +1,14 @@
+[
+  { "duration_ms": 10000, "bandwidth_kbps": 5000, "latency_ms": 50 },
+  { "duration_ms": 10000, "bandwidth_kbps": 500, "latency_ms": 50 },
+  { "duration_ms": 10000, "bandwidth_kbps": 100, "latency_ms": 50 },
+  { "duration_ms": 10000, "bandwidth_kbps": 5000, "latency_ms": 50 },
+  { "duration_ms": 10000, "bandwidth_kbps": 4000, "latency_ms": 50 },
+  { "duration_ms": 10000, "bandwidth_kbps": 3000, "latency_ms": 50 },
+  { "duration_ms": 10000, "bandwidth_kbps": 4000, "latency_ms": 50 },
+  { "duration_ms": 10000, "bandwidth_kbps": 5000, "latency_ms": 50 },
+  { "duration_ms": 10000, "bandwidth_kbps": 5000, "latency_ms": 50 },
+  { "duration_ms": 10000, "bandwidth_kbps": 6000, "latency_ms": 60 },
+  { "duration_ms": 10000, "bandwidth_kbps": 7000, "latency_ms": 50 },
+  { "duration_ms": 10000, "bandwidth_kbps": 6000, "latency_ms": 60 }
+]
