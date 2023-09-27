@@ -1,7 +1,14 @@
+# Summary
+
+While streaming video content online, it's essential to ensure that the viewer receives the best possible quality based on their network conditions. If a viewer has a high-speed connection, they should be able to watch the video in high definition. Conversely, if their connection is slower, the video quality should automatically reduce to prevent buffering.
+The ABR algorithm dynamically adjusts the quality of a video stream in real-time based on the viewer's network conditions. It does this by encoding the video at multiple bit rates and then switching between these rates as needed.
+The goal is to provide the viewer with the highest quality stream that their connection can handle without buffering.
+
+
 # CS514_ECE558_F23 Lab
 Use sabre to understand how online video player works
 
-Online video is the “Killer” application in today’s network. In this lab, we are going to implement an Adaptive Bitrate (ABR) Optimization algorithm with Sabre, an ABR algorithm simulation framework.
+In this lab, I implement an Adaptive Bitrate (ABR) Optimization algorithm with Sabre, an ABR algorithm simulation framework.
 
 [Sabre](https://github.com/UMass-LIDS/sabre)[1] is an ABR algorithm simulation framework developed by UMass-LIDS, it can simulate the behavior and evaluate the performance of an ABR algorithm for different video and network configurations.
 
